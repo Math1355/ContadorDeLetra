@@ -1,0 +1,16 @@
+C:\Users\manij\OneDrive\Documentos\programação\C#\Accenture\ContadorDePalavras\ContadorDePalavras\bin\Debug\net5.0\ContadorDePalavras.exe
+C:\Users\manij\OneDrive\Documentos\programação\C#\Accenture\ContadorDePalavras\ContadorDePalavras\bin\Debug\net5.0\ContadorDePalavras.deps.json
+C:\Users\manij\OneDrive\Documentos\programação\C#\Accenture\ContadorDePalavras\ContadorDePalavras\bin\Debug\net5.0\ContadorDePalavras.runtimeconfig.json
+C:\Users\manij\OneDrive\Documentos\programação\C#\Accenture\ContadorDePalavras\ContadorDePalavras\bin\Debug\net5.0\ContadorDePalavras.runtimeconfig.dev.json
+C:\Users\manij\OneDrive\Documentos\programação\C#\Accenture\ContadorDePalavras\ContadorDePalavras\bin\Debug\net5.0\ContadorDePalavras.dll
+C:\Users\manij\OneDrive\Documentos\programação\C#\Accenture\ContadorDePalavras\ContadorDePalavras\bin\Debug\net5.0\ref\ContadorDePalavras.dll
+C:\Users\manij\OneDrive\Documentos\programação\C#\Accenture\ContadorDePalavras\ContadorDePalavras\bin\Debug\net5.0\ContadorDePalavras.pdb
+C:\Users\manij\OneDrive\Documentos\programação\C#\Accenture\ContadorDePalavras\ContadorDePalavras\obj\Debug\net5.0\ContadorDePalavras.csproj.AssemblyReference.cache
+C:\Users\manij\OneDrive\Documentos\programação\C#\Accenture\ContadorDePalavras\ContadorDePalavras\obj\Debug\net5.0\ContadorDePalavras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manij\OneDrive\Documentos\programação\C#\Accenture\ContadorDePalavras\ContadorDePalavras\obj\Debug\net5.0\ContadorDePalavras.AssemblyInfoInputs.cache
+C:\Users\manij\OneDrive\Documentos\programação\C#\Accenture\ContadorDePalavras\ContadorDePalavras\obj\Debug\net5.0\ContadorDePalavras.AssemblyInfo.cs
+C:\Users\manij\OneDrive\Documentos\programação\C#\Accenture\ContadorDePalavras\ContadorDePalavras\obj\Debug\net5.0\ContadorDePalavras.csproj.CoreCompileInputs.cache
+C:\Users\manij\OneDrive\Documentos\programação\C#\Accenture\ContadorDePalavras\ContadorDePalavras\obj\Debug\net5.0\ContadorDePalavras.dll
+C:\Users\manij\OneDrive\Documentos\programação\C#\Accenture\ContadorDePalavras\ContadorDePalavras\obj\Debug\net5.0\ref\ContadorDePalavras.dll
+C:\Users\manij\OneDrive\Documentos\programação\C#\Accenture\ContadorDePalavras\ContadorDePalavras\obj\Debug\net5.0\ContadorDePalavras.pdb
+C:\Users\manij\OneDrive\Documentos\programação\C#\Accenture\ContadorDePalavras\ContadorDePalavras\obj\Debug\net5.0\ContadorDePalavras.genruntimeconfig.cache
